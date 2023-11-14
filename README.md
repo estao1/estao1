@@ -1,5 +1,5 @@
-### Hi there 👋
 
+### Hi! My name is Eric, and I'm a student at UC Irvine studying Computer Science.
 <!--
 **estao1/estao1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
