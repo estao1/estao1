@@ -1,5 +1,7 @@
 
-### Hi! My name is Eric, and I'm a student at UC Irvine studying Computer Science.
+### Hi! My name is Eric, a first-year Computer Science student @ UC Irvine.
+
+##### You can find me at my [LinkedIn](https://www.linkedin.com/in/eric-tao1/) or shoot me an email at estao@uci.edu.
 <!--
 **estao1/estao1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
