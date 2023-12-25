@@ -1,5 +1,5 @@
 
-### Hi! My name is Eric, a first-year Computer Science student @ UC Irvine.
+### Hi! My name is Eric, a first-year Computer Science student at UC Irvine.
 
 ##### You can find me at my [LinkedIn](https://www.linkedin.com/in/eric-tao1/) or send me an email at estao@uci.edu.
 <!--
