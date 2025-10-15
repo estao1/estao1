@@ -1,5 +1,5 @@
 
-### Hi! My name is Eric, a Undergraduate Senior at the University of California, Irvine studying Computer Science.
+### Hi! My name is Eric, an undergraduate senior at the University of California, Irvine studying Computer Science.
 
 ##### You can find me at my [LinkedIn](https://www.linkedin.com/in/eric-tao1/) or send me an email at etao9039@gmail.com.
 <!--
